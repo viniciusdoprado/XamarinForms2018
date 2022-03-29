@@ -133,4 +133,7 @@
       <Name>App01_ConsultarCEP</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Logo.png" />
+  </ItemGroup>
 </Project>
